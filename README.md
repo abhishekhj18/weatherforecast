@@ -1,6 +1,5 @@
 # weatherforecast
-A program to get the option from the user and print the result based on API.
-API Link: https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22
+A program to get the option from the user and print the result based on [API](https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22)
 
 **To run them program**
 (Assuming you have Python installed)
