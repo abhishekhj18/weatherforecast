@@ -26,4 +26,5 @@ API Link: https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,u
 
 
 5. Program runs till user decides to exit
-<img width="805" alt="Screenshot 2023-08-01 at 18 43 25" src="https://github.com/abhishekhj18/weatherforecast/assets/84630533/699717e1-1e99-456a-bc2d-c71106926c2b">
+![image](https://github.com/abhishekhj18/weatherforecast/assets/84630533/8a5f97aa-235c-4c44-bf3b-88f890867009)
+
